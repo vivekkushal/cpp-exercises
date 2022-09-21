@@ -1,0 +1,19 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+
+# Ignore input1.txt
+input1.txt
+
+# Ignore output1.txt
+output1.txt
+
+# Ignore .DS_Store
+.DS_Store
