@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "cherno_function.h"
+#include "cherno_function.hpp"
 
 
 // Definition or implementation of all the functions that we are using

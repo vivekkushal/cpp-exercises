@@ -1,6 +1,6 @@
 #include <iostream>
 // Method 1: This way we DON'T need to individually include all function declarations but we will need header file
-#include "cherno_function.h"
+#include "cherno_function.hpp"
 
 // Method 2: This way we need to individually include all function declarations but we DON'T need header file
 // int Multiply(int a, int b);
