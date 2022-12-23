@@ -9,6 +9,7 @@ int main() {
 	if (t >= 0) {
 		// Loop for taking test cases
 		while (t--) {
+			// Next line integers 'input' are individual inputs
 			int input;
 			cin >> input;
 
